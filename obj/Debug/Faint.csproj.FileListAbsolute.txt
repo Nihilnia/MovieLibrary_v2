@@ -1,0 +1,316 @@
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Faint.dll.config
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Faint.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Faint.pdb
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csc.exe
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csc.exe.config
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csc.rsp
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csi.exe
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csi.exe.config
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\csi.rsp
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.AppContext.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Console.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Net.Http.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\vbc.exe
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\vbc.exe.config
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\vbc.rsp
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gloria\Desktop\Faint\Faint\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Options.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Identity.Client.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Newtonsoft.Json.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Buffers.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Collections.Immutable.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.ComponentModel.Annotations.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Memory.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Numerics.Vectors.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Helpers.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Mvc.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Razor.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Options.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.Identity.Client.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Newtonsoft.Json.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Buffers.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Collections.Immutable.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Memory.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Numerics.Vectors.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Razor.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Helpers.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\System.Web.Mvc.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.csproj.AssemblyReference.cache
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.csproj.CoreCompileInputs.cache
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.csproj.CopyComplete
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.dll
+C:\Users\Gloria\Desktop\Faint\Faint\obj\Debug\Faint.pdb
+C:\Users\Gloria\Desktop\Faint\Faint\bin\MySqlConnector.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Pomelo.JsonObject.dll
+C:\Users\Gloria\Desktop\Faint\Faint\bin\MySqlConnector.xml
+C:\Users\Gloria\Desktop\Faint\Faint\bin\Pomelo.EntityFrameworkCore.MySql.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Faint.dll.config
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Faint.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Faint.pdb
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csc.exe
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csc.exe.config
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csc.rsp
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csi.exe
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csi.exe.config
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\csi.rsp
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.AppContext.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Console.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Net.Http.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\vbc.exe
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\vbc.exe.config
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\vbc.rsp
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Options.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Identity.Client.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\MySqlConnector.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Newtonsoft.Json.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Pomelo.JsonObject.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Buffers.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Collections.Immutable.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.ComponentModel.Annotations.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Memory.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Numerics.Vectors.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Helpers.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Mvc.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Razor.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Options.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.Identity.Client.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\MySqlConnector.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Newtonsoft.Json.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Pomelo.EntityFrameworkCore.MySql.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Buffers.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Collections.Immutable.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Memory.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Numerics.Vectors.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Razor.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Helpers.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\System.Web.Mvc.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.csproj.AssemblyReference.cache
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.csproj.CoreCompileInputs.cache
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.csproj.CopyComplete
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.dll
+C:\Users\Gloria\Desktop\Faint - Copy\Faint\obj\Debug\Faint.pdb

@@ -1,0 +1,129 @@
+﻿@using Faint.Models.Database
+@model User
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" style="margin: auto; width: 600px !important; height: 350px !important;">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/Content/SliderPosters/defMov_1.jpg" class="d-block w-100" alt="..." />
+        </div>
+        <div class="carousel-item">
+            <img src="/Content/SliderPosters/defMov_2.jpg" class="d-block w-100" alt="..." />
+        </div>
+        <div class="carousel-item">
+            <img src="/Content/SliderPosters/defMov_3.jpg" class="d-block w-100" alt="..." />
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<br />
+<br />
+<br />
+<h2>Index Page MFS.</h2>
+
+<table id="jqGrid"></table>
+
+<div id="jqGridPager"></div>
+
+
+<script>
+        $(document).ready(function () {
+
+            $grid = $("#jqGrid").jqGrid({
+                url: '@Url.Action("GetDashboard", "JQGrid")',
+                mtype: 'GET',
+                datatype: 'json',
+                colNames: ["ID", "Name", "Price"],
+                colModel: [
+                    { label: 'Movie ID', name: 'ID', key: true, editable: false },
+                    { label: "Movie Name", name: 'Name', editable : true },
+                    { label: "Price", name: 'Price', editable : true },
+                ],
+                loadonce: true,
+                pager: '#jqGridPager',
+                rowNum: 10,
+                rowList: [10, 20, 100],
+                autoWidth: true,
+                autoHeight: true,
+                viewrecords: true,
+                //width: 1000,
+                //height: 600,
+                footerrow: true,
+                userDataOnFooter: true,
+                loadComplete: function () {
+                    var $grid = $('#jqGrid');
+
+                    var colSum = $grid.jqGrid('getCol', 'Price', false, 'sum');
+                    $grid.jqGrid('footerData', 'set', { ID: "Total", Name: colSum });
+                },
+            }).navGrid('#jqGridPager', { edit: true, add: true, del: true, search: true, refresh: true, },
+                {
+                    url: '@Url.Action("EditMovie", "JQGrid")',
+                    closeAfterEdit: true,
+                    afterComplete: function (response) {
+                        $("#jqGrid").setGridParam({ datatype: 'json', page: 1 }).trigger('reloadGrid');
+                        alert(response.responseText)
+                    }
+                },
+                {
+                    url: '@Url.Action("AddMovie", "JQGrid")',
+                    closeAfterAdd: true,
+                    afterComplete: function (response) {
+                        $("#jqGrid").setGridParam({ datatype: 'json', page: 1 }).trigger('reloadGrid');
+                        alert(response.responseText)
+                    }
+                },
+                {
+                    url: '@Url.Action("DeleteMovie", "JQGrid")',
+                    closeAfterDelete: true,
+                    afterComplete: function (response) {
+                        $("#jqGrid").setGridParam({ datatype: 'json', page: 1 }).trigger('reloadGrid');
+                        alert(response.responseText)
+                    }
+                }
+            );
+
+            var $pager = $grid.closest(".ui-jqgrid").find(".ui-pg-table");
+
+
+            $pager.find(".ui-pg-div>span.ui-icon-search")
+                .removeClass("ui-icon ui-icon-search")
+                .addClass("fas fa-search");
+
+            $pager.find(".ui-pg-div>span.ui-icon-refresh")
+                .removeClass("ui-icon ui-icon-refresh")
+                .addClass("fas fa-retweet");
+
+            $pager.find("#next_jqGridPager>span.ui-icon-seek-next")
+                .removeClass("ui-icon ui-icon-seek-next")
+                .addClass("fas fa-forward");
+
+            $pager.find(".ui-pg-div>span.ui-icon-plus")
+                .removeClass("ui-icon ui-icon-plus")
+                .addClass("fas fa-plus");
+
+            $pager.find(".ui-pg-div>span.ui-icon-pencil")
+                .removeClass("ui-icon ui-icon-pencil")
+                .addClass("fas fa-edit");
+
+            $pager.find(".ui-pg-div>span.ui-icon-trash")
+                .removeClass("ui-icon ui-icon-trash")
+                .addClass("fas fa-trash");
+
+
+
+        });
+</script>

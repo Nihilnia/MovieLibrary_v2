@@ -1,0 +1,24 @@
+﻿
+
+@{
+    ViewBag.Title = "AddNewMovie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddNewMovie</h2>
+
+@using (Html.BeginForm("AddMovie", "User", FormMethod.Post))
+{
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Movie Name</label>
+        @Html.TextBox("MovieName", null, null, new { @class = "form-control" })
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+<div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Movie Name</label>
+        @Html.TextBox("Price", null, null, new { @class = "form-control" })
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    @Html.Hidden("Username")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
