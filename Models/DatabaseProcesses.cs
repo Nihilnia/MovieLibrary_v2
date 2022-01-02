@@ -32,7 +32,9 @@ namespace Faint.Models
 
                 if (findUser != null)
                 {
-                    if (findUser.Password == daPassWord)
+                    var cryptPass = EncryptMD5.EnryptEm(daPassWord);
+
+                    if (findUser.Password == cryptPass)
                     {
                         result = findUser;
                     }

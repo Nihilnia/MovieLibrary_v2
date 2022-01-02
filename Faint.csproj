@@ -259,6 +259,7 @@
     <Compile Include="Models\Database\Movie.cs" />
     <Compile Include="Models\Database\User.cs" />
     <Compile Include="Models\Database\WitchContext.cs" />
+    <Compile Include="Models\EncryptMD5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

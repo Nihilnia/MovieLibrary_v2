@@ -14,7 +14,7 @@ namespace Faint.Controllers
         {
             //DatabaseProcesses.AddRandomUsers(50);
             //DatabaseProcesses.AddRandomMovies(200);
-
+            //asdasd
             return View();
         }
 
@@ -24,7 +24,7 @@ namespace Faint.Controllers
             var result = DatabaseProcesses.LoginControl(userName, passWord);
             if (result.Role == "User")
             {
-
+                var cryptUser = EncryptMD5.EnryptEm(userName);
                 HttpCookie cookie = new HttpCookie("Username", userName);
                 Response.Cookies.Add(cookie);
                 var model = DatabaseProcesses.GetUser(userName);
@@ -44,7 +44,9 @@ namespace Faint.Controllers
         [HttpPost]
         public ActionResult Register(string userName, string Password)
         {
-            DatabaseProcesses.Register(userName, Password, "User");
+            var cryptPassword = EncryptMD5.EnryptEm(Password);
+
+            DatabaseProcesses.Register(userName, cryptPassword, "User");
             return RedirectToAction("Login", "Home");
         }
 

@@ -47,7 +47,9 @@ namespace Faint.Controllers
         [HttpPost]
         public ActionResult Register(string userName, string passWord)
         {
-            DatabaseProcesses.Register(userName, passWord, "Admin");
+            var cryptPassword = EncryptMD5.EnryptEm(passWord);
+
+            DatabaseProcesses.Register(userName, cryptPassword, "Admin");
             return View("~/Views/Admin/Login.cshtml");
         }
 
