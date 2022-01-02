@@ -14,7 +14,6 @@ namespace Faint.Controllers
         {
             //DatabaseProcesses.AddRandomUsers(50);
             //DatabaseProcesses.AddRandomMovies(200);
-            //asdasd
             return View();
         }
 
